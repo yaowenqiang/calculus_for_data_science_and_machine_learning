@@ -27,6 +27,12 @@
 
 > higher order derivatives(高阶导数)
 
+> Exponential rule
+> chain rule
+> differentiation(微分)
+> composite function(复合函数)
+> chain rule(链式法则)
+
 
 
 

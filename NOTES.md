@@ -1,7 +1,7 @@
 > hyperbolic sin(双曲正弦)
 
 > asymptote(渐近线)
-> sigmoid(s 曲线函数)
+> sigmoid(s 曲线函数) y = 1/(1+e^-x)
 > limit(极限)
 > inadequate(不充分的；不足的)
 > rigorously(严格地；严厉地；严密地)
@@ -32,6 +32,8 @@
 > differentiation(微分)
 > composite function(复合函数)
 > chain rule(链式法则)
+
+> product rule and quotient rule(乘积法则与商法则)
 
 
 

@@ -35,6 +35,10 @@
 
 > product rule and quotient rule(乘积法则与商法则)
 
+> implicit differentiation(隐函数求导)
+
+> folium of Descartes(笛卡尔叶形线) x**3 + y**3 = 6xy
+
 
 
 

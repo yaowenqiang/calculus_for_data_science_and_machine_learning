@@ -39,8 +39,17 @@
 
 > folium of Descartes(笛卡尔叶形线) x**3 + y**3 = 6xy
 
+> logarithmic differentiation(对数求导法)
 
 
+> entropy(熵)
 
 
+> sin(a + b) = sin(a)*cos(b) + sinb(b)*cos(a)
+> cos(a + b) = cos(a)*cos*b) + sin(a)*sin(b)
+
+## inverse trigonometric functions(反三角函数)
+
+> hypotenuse(斜边)
+> pythagorean theorem( 勾股定理)
 

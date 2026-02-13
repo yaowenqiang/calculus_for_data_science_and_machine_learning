@@ -53,3 +53,17 @@
 > hypotenuse(斜边)
 > pythagorean theorem( 勾股定理)
 
+## Application of derivatives
+
+
+> min and amx of function
+
+> global minimum
+> local minima
+> global maximum
+> local maximum
+
+> first derivative test
+
+
+

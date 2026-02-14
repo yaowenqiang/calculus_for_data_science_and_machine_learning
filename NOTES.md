@@ -65,5 +65,8 @@
 
 > first derivative test
 
+> Min/Max clarification
+
+> constrained optimization(约束优化)
 
 

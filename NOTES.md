@@ -68,5 +68,8 @@
 > Min/Max clarification
 
 > constrained optimization(约束优化)
-
+> concavity(凹凸性)
+> concave up(凹向上)
+> concave down(凹向下)
+> curvature of the function(函数的曲率)
 

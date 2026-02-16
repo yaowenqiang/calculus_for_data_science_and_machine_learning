@@ -63,7 +63,8 @@
 > global maximum
 > local maximum
 
-> first derivative test
+> first derivative test(一阶导数判别法)
+> second derivative test(二阶导数判别法)
 
 > Min/Max clarification
 
@@ -72,4 +73,8 @@
 > concave up(凹向上)
 > concave down(凹向下)
 > curvature of the function(函数的曲率)
+
+> inconclusive(不确定)
+
+
 

@@ -77,4 +77,5 @@
 > inconclusive(不确定)
 
 
-
+> gaussien mean(高斯平均值)
+> monotonically increasing function(单调递增函数)

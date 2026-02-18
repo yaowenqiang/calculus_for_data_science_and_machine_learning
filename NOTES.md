@@ -79,3 +79,7 @@
 
 > gaussien mean(高斯平均值)
 > monotonically increasing function(单调递增函数)
+> gaussian variants(高斯变体)
+> L'Hôpital's rule(洛必达法则)
+
+

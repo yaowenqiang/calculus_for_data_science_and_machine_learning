@@ -81,5 +81,10 @@
 > monotonically increasing function(单调递增函数)
 > gaussian variants(高斯变体)
 > L'Hôpital's rule(洛必达法则)
+> quadratic(二次的)
+> discriminant(判别式)
+> Newton's method(牛顿法)
+
+
 
 

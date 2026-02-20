@@ -85,6 +85,17 @@
 > discriminant(判别式)
 > Newton's method(牛顿法)
 
+## Integral(积分)
+
+
+> bayesian machine learning(贝叶斯机器学习)
+> mcmc(马尔可夫链蒙特卡洛)
+> area under curve(曲线下面积)
+
+## Calculus
+
+> definite and indefinite integrals(定积分和不定积分)
+
 
 
 

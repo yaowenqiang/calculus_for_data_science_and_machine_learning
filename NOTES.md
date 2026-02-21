@@ -95,7 +95,7 @@
 ## Calculus
 
 > definite and indefinite integrals(定积分和不定积分)
-
+> trapezoid(梯形)
 
 
 

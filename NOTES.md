@@ -97,5 +97,16 @@
 > definite and indefinite integrals(定积分和不定积分)
 > trapezoid(梯形)
 
+## Vector Calculus in Multiple Dimensions
+
+> partial derivatives(偏导数)
+> differentiate
+> Consecutive(连续的)
+> gradients(梯度)
+> Jacobean(雅可比矩阵)
+
+
+
+
 
 
